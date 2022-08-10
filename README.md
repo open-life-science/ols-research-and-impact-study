@@ -1,8 +1,21 @@
-# OLS research: Systematic evaluation of community development through open science training and incentivising contextual mentorship
+# OLS Research and Impact Study
+
+***Systematic evaluation of community development through open science training and incentivising contextual mentorship***
 
 Wellcome Trust has awarded the Open Research Fund to Open Life Science (OLS). This will enable research and sustainability of the program for two years (mid-2022 to mid-2024). Under the title Systematic evaluation of community development through open science training and incentivising contextual mentorship in health research, OLS has received GBP 99,999 to create a funded position for a programme coordinator and researcher, as well as pay for the overhead cost for the next four cohorts.
 
 The full proposal (personal information redacted) can be found on Zenodo: [DOI: 10.5281/zenodo.5267934](https://zenodo.org/record/5267934). Below we share some highlights from the proposal and OLS plans for the next two years.
+
+## Goals and Outcomes
+
+Our main goal with this proposal is to conduct a research-based assessment, decolonisation and dissemination of our resources for their adoption and reuse across different open science communities. A successfully completed Open Research Fund activity in OLS will enable:
+
+- research-based evaluation and enhancement of the OLS curriculum, training materials, mentoring formats and value-based approach to local community development,
+- incentivised integration of contextual (sociotechnical and cultural) knowledge of mentors and project leads in the open science project they develop in the program,
+- targeted support and equitable participation of health researchers and community builders from underrepresented communities in a shared vision for the global open science through collaboration,
+- assessment of the long-term impact of OLS on the careers of the OLS participants and adoption of contextualised open science practices in research work in their regional contexts across low- and middle-income, as well as high-income countries, and
+- publication of a series of reports capturing different outputs, building an open source evidence base and inviting support for the sustainability of OLS over the next 5 years.
+
 
 ## Repo Structure
 
@@ -65,3 +78,5 @@ You are free to share and adapt the material for any purpose, even commercially,
 as long as you provide attribution (give appropriate credit, provide a link to the license,
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the
 licensor endorses you or your use, and with no additional restrictions.
+
+**Reference:** This repository is reusing the [Template for setting up reproducible projects](https://github.com/alan-turing-institute/reproducible-project-template) developed and maintained by Open Research Community Building and Research Application Management teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute. For any repository related queries or concerns, you can directly reach out to [Malvika Sharan](mailto:msharan@turing.ac.uk).
